@@ -18,5 +18,6 @@ public class tcpser{
 		{
 			pwrite.println(str);
 		}
+		
 	}
 }
