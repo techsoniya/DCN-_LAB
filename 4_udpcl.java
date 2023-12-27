@@ -1,6 +1,6 @@
 import java.io.*;
 import java.net.*;
-class client {
+class udpcl{
 public static void main(String args[]) throws Exception
 {
 BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
